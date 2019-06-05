@@ -3,8 +3,6 @@
 ## Triatl3ta website
 [https://triatl3ta.pt](https://triatl3ta.pt)
 
-### Description
-
 Triatl3ta is an editorial project dedicated to Triathlon with the aim of contributing to its development, where Triathletes are the main protagonists.
 
 The client’s goal for this website is to increase awareness for the magazine, drive traffic from the social networks to get more ads revenue, showcase the magazine’s work and sell subscriptions and photos.
@@ -16,8 +14,6 @@ With this website, the client was able to increase the magazine’s subscribers 
 
 ## Águias de Alpiarça website
 [http://aguiasalpiarca.pt](http://aguiasalpiarca.pt)
-
-### Description
 
 The **_Clube Desportivo “Os Águias” de Alpiarça_** was founded in 1922 and is the most representative sports and cultural association of the Municipality of Alpiarça.
 
