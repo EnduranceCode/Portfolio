@@ -24,3 +24,12 @@ The website was upgraded from Joomla! 1.5 and a new custom template was develope
 More than 200 existing articles were refactored to get a cleaner and more semantic HTML code and to make use of the new template’s design and functionality. The maintenance of the website was guaranteed up to 2015 as well as all the contents addition.
 
 The changes made enabled an increase in the exposure and reach of the website’s content. That made the association’s work in the community more visible and improved communication with its stakeholders.
+
+## Escalatrata website
+[http://www.escalatrata.pt](http://www.escalatrata.pt)
+
+Escalatrata is a young company that provides construction management services.
+
+The goal of the website is to act as an online brochure to promote the company on the web and engage with new customers.
+
+The website is developed with Joomla and has a custom-tailored layout/template built with HTML and CSS.
